@@ -1,4 +1,4 @@
-**# Portfolio Idea 1
+ Portfolio Idea 1
 
 Welcome to the repository for **Portfolio Idea 1**! This project serves as a professional portfolio website designed to showcase your skills, experiences, and achievements in a visually appealing and interactive manner.
 
